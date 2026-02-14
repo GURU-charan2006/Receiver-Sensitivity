@@ -69,5 +69,9 @@ Your report should include:
   - BER analyzer output  
   - Eye diagram  
 - Discussion of differences between analytical and simulation results.  
+![WhatsApp Image 2026-02-14 at 2 19 23 PM](https://github.com/user-attachments/assets/712974a8-a1a8-4c22-8501-81b1a548af2a)
+<img width="987" height="749" alt="Screenshot 2026-02-14 141544" src="https://github.com/user-attachments/assets/211362d3-99f0-4f7e-b71d-7d8e6811b330" />
 
 ---
+ ## result 
+ thus the reciever sensitivity is obtained and calculated 
